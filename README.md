@@ -28,6 +28,7 @@ Outputs:
     Description: ID de l'instance EC2 nouvellement créée
     Value: !Ref MyInstance
 
-# Upload the file 
+#Upload the file 
+
 
 It's done !!
