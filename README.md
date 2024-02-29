@@ -1,7 +1,8 @@
 # How-to-lauch-EC2-with-CloudFormation-userdata-
 How to lauch EC2 with CloudFormation(+userdata) 
 
-#Crete your Stack with Cloud formation
+
+# Crete your Stack with Cloud formation
 # Create a yml file and put this code : 
 Resources:
   MyInstance:
@@ -28,7 +29,7 @@ Outputs:
     Description: ID de l'instance EC2 nouvellement créée
     Value: !Ref MyInstance
 
-#Upload the file 
+# Upload the file 
 
 
 It's done !!
